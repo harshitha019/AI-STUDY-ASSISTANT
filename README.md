@@ -79,16 +79,18 @@ uvicorn main:app --reload
 cd frontend
 streamlit run app.py
 ```
- Output:
-The user can type a study-related question.
-The AI generates an appropriate response based on the selected style.
-The response is displayed instantly on the screen.
- Conclusion:
+## Output
+- The user can type a study-related question.
+- The AI generates an appropriate response based on the selected style.
+- The response is displayed instantly on the screen.
+
+## Conclusion
 This project helped in understanding:
-Frontend and backend interaction
-API integration
-Basics of AI-powered applications 
-Full-stack development using Python
+- Frontend and backend interaction
+- API integration
+- Basics of AI-powered applications
+- Full-stack development using Python  
+
 The project is designed to be simple, modular, and suitable for first-year students.
 ## Author
 Harshitha pavuluri
